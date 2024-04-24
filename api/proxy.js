@@ -1,6 +1,6 @@
 // src/const.ts
-var ADDRESS = "https://webdav.y4cc.cc";
-var TOKEN = "YOUR_TOKEN";
+var ADDRESS = "https://alist.kylemao.asia";
+var TOKEN = "alist-21a28440-6860-4e8b-ae4c-e264fbcb6d1dksWGpHUaDKlOukV0m04t7QZFYxnnwEUsRjakxnelRaIWRzHnTIclOnRSj08QKYmz";
 
 // src/verify.ts
 var verify = async (data, _sign) => {
